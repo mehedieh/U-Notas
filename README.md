@@ -2,7 +2,7 @@
 Proyecto para administrar las notas de todos los cursos mediante la plataforma u-cursos.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ppizarror/ppizarror.github.io/master/resources/images/u-notas/captura1.PNG" width="90%px">
+<img src="https://raw.githubusercontent.com/ppizarror/ppizarror.github.io/master/resources/images/u-notas/captura1.PNG" width="70%px">
 </p>
 
 ## Autor
